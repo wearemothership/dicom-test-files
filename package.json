@@ -1,0 +1,22 @@
+{
+  "name": "dicom-test-files",
+  "version": "1.0.0",
+  "description": "publically available test files for use in dicom.js tests",
+  "main": ".",
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mothershipsoft/dicom-test-files.git"
+  },
+  "keywords": [
+    "dicom"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mothershipsoft/dicom-test-files/issues"
+  },
+  "homepage": "https://github.com/mothershipsoft/dicom-test-files#readme"
+}
