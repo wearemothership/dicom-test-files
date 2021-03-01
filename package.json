@@ -1,6 +1,6 @@
 {
   "name": "dicom-test-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "publically available test files for use in dicom.js tests",
   "main": ".",
   "scripts": {
