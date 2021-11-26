@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mothershipsoft/dicom-test-files.git"
+    "url": "git+https://github.com/wearemothership/dicom-test-files.git"
   },
   "keywords": [
     "dicom"
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mothershipsoft/dicom-test-files/issues"
+    "url": "https://github.com/wearemothership/dicom-test-files/issues"
   },
-  "homepage": "https://github.com/mothershipsoft/dicom-test-files#readme"
+  "homepage": "https://github.com/wearemothership/dicom-test-files#readme"
 }
